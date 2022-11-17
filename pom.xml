@@ -7,7 +7,7 @@
   <groupId>com.teranetsolutions.weebapp</groupId>
   <artifactId>webapp-project</artifactId>
   <version>1.0-SNAPSHOT</version>
-
+   <packaging>war</packaging>
   <name>webapp-project</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
